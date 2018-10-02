@@ -1,0 +1,3 @@
+[submodule "embed/fhirbase.py"]
+	path = embed/fhirbase.py
+	url = git@github.com:fhirbase/fhirbase.py.git

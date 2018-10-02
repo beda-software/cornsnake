@@ -1,0 +1,5 @@
+aiohttp-devtools
+aiohttp_debugtoolbar
+psycopg2-binary
+aiopg
+SQLAlchemy
